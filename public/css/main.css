@@ -1,0 +1,50 @@
+body{
+  background-color: #000000;
+}
+#logo{
+  color: white;
+  font-family: cursive;
+}
+#mymenu{
+  background-color: blue;
+}
+#contact{
+  text-align: center;
+}
+#backdrop{
+  background-image: url(../images/clouds.jpg);
+  background-repeat: no-repeat;
+  height: 500px;
+  text-align: center;
+  padding-top: 150px;
+}
+#header{
+  font-size: 850%;
+}
+#support{
+   list-style-type: none;
+   margin-top: 25px;
+   text-align: center;
+}
+.supportitems1{
+  display: inline;
+  float: left
+}
+.supportitems2{
+  display: inline;
+  float: center;
+}
+.supportitems3{
+  display: inline;
+  float: right;
+}
+#homeresults{
+  background-color: white;
+}
+footer{
+  color: white;
+}
+table {
+  overflow-y: auto;    /* Trigger vertical scroll    */
+  overflow-x: hidden;  /* Hide the horizontal scroll */
+}

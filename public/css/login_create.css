@@ -1,0 +1,11 @@
+.cred {
+  text-align: center;
+}
+form label {
+    display: inline-block;
+    width: 150px;
+}
+h1{
+  font-weight: bold;
+  text-decoration: underline;
+}
